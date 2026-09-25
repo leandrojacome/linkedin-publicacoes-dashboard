@@ -1,0 +1,8 @@
+Node.js 26.9.0 is out in the Current release line with several new runtime capabilities.
+
+The release adds a generic MAC API, enables the FFI module by default, introduces node:bench, adds an experimental DTLS API, integrates the VFS with CommonJS and ESM loaders, and brings Web Workers support.
+
+Release notes:
+https://nodejs.org/en/blog/release/v26.9.0
+
+#NodeJS #JavaScript #Backend

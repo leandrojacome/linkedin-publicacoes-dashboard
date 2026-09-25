@@ -1,0 +1,7 @@
+NestJS 12.0.4 is out with a focused set of reliability fixes for microservice workloads.
+
+The release lets Kafka clients retry after failed connections, fails pending RMQ and NATS requests cleanly on close, handles missing gRPC namespaces, and fixes a core hang involving sparse factory injection arrays.
+
+https://github.com/nestjs/nest/releases/tag/v12.0.4
+
+#NestJS #NodeJS #Microservices

@@ -1,0 +1,5 @@
+Claude Code v2.1.274 sharpens MCP reliability: long-running Streamable HTTP tool calls now honor per-server timeouts, while legacy HTTP+SSE servers can fall back correctly. The release also adds clearer memory-pressure warnings and richer telemetry.
+
+https://github.com/anthropics/claude-code/releases/tag/v2.1.274
+
+#ClaudeCode #MCP #DeveloperTools

@@ -1,0 +1,15 @@
+{
+  "item_id": "spring-batch-6-1-0-m2-2026-09-24",
+  "status": "published_confirmed",
+  "publication_attempted": false,
+  "source_url": "https://spring.io/blog/2026/09/24/spring-batch-6/",
+  "image_file": "outputs/posts/spring-batch-6-1-0-m2-2026-09-24/cover.png",
+  "post_file": "outputs/posts/spring-batch-6-1-0-m2-2026-09-24/post.txt",
+  "target_slot": "2026-09-24T16:00:00-03:00",
+  "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7509029996695367680/",
+  "browser_check_at": "2026-09-24T18:58:12.937-03:00",
+  "browser_check_result": "computer_use_stopped_url_confidence_policy_again",
+  "confirmed_at": "2026-09-24T20:56:17-03:00",
+  "confirmation_source": "Mac publisher inventory: LinkedIn profile visually showed the exact Spring Batch 6.1.0-M2 post and canonical activity permalink on 2026-09-24; no new submission during inventory.",
+  "publication_mode": "external_existing_post_confirmed_after_handoff"
+}

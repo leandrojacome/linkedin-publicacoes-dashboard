@@ -1,0 +1,7 @@
+MCP tools can now reach the browser — experimentally.
+
+Vercel's mcp-handler 2.2.0 adds WebMCP support. Opt in selected tools, load a script tag, and calls are proxied back to your MCP server as the signed-in user. A useful bridge for agent-ready web apps, with the experimental status front and center.
+
+https://vercel.com/changelog/webmcp-mcp-handler
+
+#WebDevelopment #MCP #AIEngineering

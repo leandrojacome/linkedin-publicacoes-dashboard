@@ -1,0 +1,7 @@
+Code coverage rules can now be managed through GitHub’s REST API.
+
+Teams can create and update rulesets that require minimum line coverage or limit coverage drops on pull requests, then apply those policies consistently across repositories. GitHub Code Quality and coverage uploads are required; the feature is available on Team and Enterprise Cloud.
+
+https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api/
+
+#GitHub #CodeQuality #DevOps

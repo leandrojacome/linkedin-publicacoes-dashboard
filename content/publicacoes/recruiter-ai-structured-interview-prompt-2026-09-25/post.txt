@@ -1,0 +1,9 @@
+AI can help recruiters prepare stronger technical interviews while keeping the decision with people.
+
+I published a copy-ready prompt that turns a role description into job-related competencies, consistent questions, neutral follow-ups, and an evidence-based rubric. No candidate résumé or personal data is needed.
+
+Try it with a role you are hiring for: https://github.com/leandrojacome/recruiter-ai-prompts/blob/main/prompts/structured-technical-interview.md
+
+Which technical competency is hardest to assess fairly in a 45-minute interview?
+
+#TechRecruiting #AIinRecruiting #StructuredInterviews

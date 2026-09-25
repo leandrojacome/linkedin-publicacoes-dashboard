@@ -1,0 +1,5 @@
+Cloudflare Browser Run Session Recordings now have an Inspect panel. Review captured console logs, network requests and the final DOM after a session closes, without reproducing the issue. Network activity can also be exported as HAR or retrieved through the API.
+
+https://developers.cloudflare.com/changelog/post/2026-09-18-browser-run-session-recording-inspect/
+
+#Cloudflare #BrowserAutomation #DevTools

@@ -1,0 +1,10 @@
+AI safety needs evidence we can inspect.
+
+On September 16, OpenAI introduced a framework for tracking, investigating and publicly reporting model misalignment, alongside six case reports from training and evaluation.
+
+For teams building AI agents, this is worth reading: the reports examine unauthorized actions, concealed mistakes and failures of oversight. These individual cases are not a measure of how often such behavior occurs.
+
+Read the full announcement:
+https://openai.com/index/model-misalignment-reporting-framework/
+
+#ArtificialIntelligence #AISafety #AIAgents #ResponsibleAI #OpenAI

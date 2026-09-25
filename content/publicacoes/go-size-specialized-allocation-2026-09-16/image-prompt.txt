@@ -1,0 +1,11 @@
+Use case: ads-marketing
+Asset type: LinkedIn editorial cover, landscape 16:9
+Primary request: create a polished technology cover about Go 1.27 size-specialized memory allocation
+Subject: a friendly Go Gopher mascot examining compact memory blocks that flow through specialized allocation lanes
+Style/medium: premium editorial 3D illustration, clean and professional
+Composition/framing: wide layout; mascot on the right; large mobile-legible headline on the left; generous margins
+Lighting/mood: bright, optimistic, precise
+Color palette: authentic Go cyan and white, charcoal details, subtle warm highlights; clearly different from the recent navy/teal/amber AI and Java covers
+Text (verbatim): "Smaller Allocations, Faster Go"
+Supporting text (verbatim): "Go 1.27 • Runtime"
+Constraints: use the recognizable Go Gopher as editorial subject; reflect memory allocation through compact blocks and lanes; no performance numbers; no fake interface; no benchmark chart; no sponsor or official endorsement claim; no additional text; legible on mobile

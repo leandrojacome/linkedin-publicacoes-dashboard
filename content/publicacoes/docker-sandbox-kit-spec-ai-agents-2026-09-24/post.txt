@@ -1,0 +1,9 @@
+What can an AI agent actually access?
+
+Docker and CNCF have announced an open Sandbox Kit Spec that packages an agent, its tools, and requested access to networks, credentials, and volumes as an OCI image.
+
+The practical idea: make agent permissions portable and reviewable across environments. This is a proposed open spec, not a finalized standard.
+
+Source: https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/
+
+#AI #DevSecOps #Docker

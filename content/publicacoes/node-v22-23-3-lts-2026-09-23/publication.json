@@ -1,0 +1,26 @@
+{
+  "id": "node-v22-23-3-lts-2026-09-23",
+  "status": "prepared_target_reached_browser_policy_blocked",
+  "target_slot": "2026-09-23T20:00:00-03:00",
+  "source_url": "https://nodejs.org/en/blog/release/v22.23.3",
+  "post_file": "outputs/posts/node-v22-23-3-lts-2026-09-23/post.txt",
+  "image_file": "outputs/posts/node-v22-23-3-lts-2026-09-23/cover.png",
+  "alt_text": "A bright green Node.js 22.23.3 LTS release infographic highlights NSS root certificates, OpenSSL and npm updates, and SharedArrayBuffer support in Node-API.",
+  "prepared_at": "2026-09-23T19:16:07-03:00",
+  "cover_provenance_check": {
+    "checked_at": "2026-09-23T19:16:07-03:00",
+    "c2pa_present": false,
+    "png_chunks": [
+      "IHDR",
+      "IDAT",
+      "IEND"
+    ],
+    "trailing_bytes": 0,
+    "creation_method": "original_code_rendered_editorial_infographic",
+    "visual_inspected": true
+  },
+  "publication_attempted": false,
+  "next_action": "Keep prepared. Prior Computer Use stopped at URL confidence safety check. When safe browser access returns, check profile and preserved drafts, revalidate release and submit at most once.",
+  "target_reached_at_check": "2026-09-23T20:01:36.726000-03:00",
+  "delay_reason": "The 20:00 target was reached while the prior browser URL verification safety stop remains unresolved. No browser input or publication attempt occurred."
+}

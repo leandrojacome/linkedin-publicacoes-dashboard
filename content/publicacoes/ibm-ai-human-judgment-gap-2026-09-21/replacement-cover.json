@@ -1,0 +1,23 @@
+{
+  "file": "C:\\Users\\leand\\Documents\\Codex\\2026-09-17\\posts-tecnologia-linkedin\\outputs\\posts\\ibm-ai-human-judgment-gap-2026-09-21\\cover-v2.png",
+  "status": "replacement_candidate",
+  "created_at": "2026-09-21T17:14:22.371140-03:00",
+  "concept": "AI output passing through a human judgment control layer",
+  "alt_text": "A bright technology illustration shows an AI core sending output through a human judgment checkpoint before becoming a verified decision.",
+  "provenance_check": {
+    "checked_at": "2026-09-21T17:14:22.371140-03:00",
+    "c2pa_present": false,
+    "png_chunks": [
+      "IHDR",
+      "IDAT",
+      "IDAT",
+      "IEND"
+    ],
+    "trailing_bytes": 0,
+    "creation_method": "original_code_rendered_technology_editorial",
+    "visual_inspected": false
+  },
+  "visual_inspected": true,
+  "composer_prepared_at": "2026-09-21T17:21:51.898466-03:00",
+  "composer_state": "replacement_draft_ready_confirmation_pending"
+}

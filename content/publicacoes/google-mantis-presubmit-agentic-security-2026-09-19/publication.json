@@ -1,0 +1,28 @@
+{
+  "id": "google-mantis-presubmit-agentic-security-2026-09-19",
+  "source_url": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
+  "target_slot": "2026-09-19T16:00:00-03:00",
+  "prepared_at": "2026-09-19T14:34:23.9039688-03:00",
+  "status": "scheduled",
+  "post_file": "outputs/posts/google-mantis-presubmit-agentic-security-2026-09-19/post.txt",
+  "image_file": "outputs/posts/google-mantis-presubmit-agentic-security-2026-09-19/cover.png",
+  "cover_provenance_check": {
+    "checked_at": "2026-09-19T14:34:23.9039688-03:00",
+    "c2pa_present": false,
+    "png_chunks": [
+      "IHDR",
+      "IDAT",
+      "IDAT",
+      "IEND"
+    ],
+    "trailing_bytes": 0,
+    "creation_method": "original_code_rendered_editorial_diagram",
+    "visual_inspected": true
+  },
+  "scheduled_at": "2026-09-19T14:37:22.188462-03:00",
+  "scheduled_for": "2026-09-19T16:00:00-03:00",
+  "schedule_rechecked_at": "2026-09-19T14:37:22.188462-03:00",
+  "schedule_confirmation": "LinkedIn toast \"Publicação agendada.\" and native scheduled-post detail showing Sep 19 16:00, exact body, 3 hashtags, and uploaded image alt text.",
+  "scheduled_count_observed": 1,
+  "next_action": "Check profile after 16:00 Sao Paulo; only then mark published_confirmed with permalink. Do not resend scheduled item."
+}

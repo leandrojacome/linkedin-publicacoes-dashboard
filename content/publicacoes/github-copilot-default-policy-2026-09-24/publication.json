@@ -1,0 +1,11 @@
+{
+  "id": "github-copilot-default-policy-2026-09-24",
+  "status": "prepared_target_reached_browser_policy_blocked",
+  "target_slot": "2026-09-25T07:00:00-03:00",
+  "publication_attempted": false,
+  "scheduled_for": null,
+  "submitted_at": null,
+  "confirmed_at": null,
+  "permalink": null,
+  "verification": "LinkedIn profile and native scheduling inaccessible while the previously recorded Chrome URL-confidence safety block persists."
+}

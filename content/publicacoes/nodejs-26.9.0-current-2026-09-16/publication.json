@@ -1,0 +1,22 @@
+{
+  "id": "nodejs-26.9.0-current-2026-09-16",
+  "status": "published_confirmed",
+  "target_slot": "2026-09-17T16:00:00-03:00",
+  "source_url": "https://nodejs.org/en/blog/release/v26.9.0",
+  "source_date": "2026-09-16",
+  "checked_at": "2026-09-17T15:01:21.7255411-03:00",
+  "prepared_at": "2026-09-17T15:03:17.3490700-03:00",
+  "scheduled_at": "2026-09-17T15:07:44.5474328-03:00",
+  "scheduled_for": "2026-09-17T16:00:00-03:00",
+  "schedule_confirmation_source": "LinkedIn toast Publicacao agendada; scheduled-posts panel visibly showed one Node.js item with the prepared cover, matching opening text, and Publicando em qui, 17 de set as 16:00.",
+  "confirmed_at": "2026-09-17T16:03:21.4466282-03:00",
+  "published_at": null,
+  "publication_mode": "native_scheduled_16_target",
+  "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7506426802987520000/",
+  "confirmation_source": "LinkedIn profile recent activity showed the Node.js post first at 2 min; canonical permalink opened and exact text, source link, three hashtags, author and original green cover were visually verified.",
+  "topic": "Node.js",
+  "visual_family": "node_green_runtime_editorial",
+  "palette": "node_green_charcoal_white",
+  "post_file": "outputs/posts/nodejs-26.9.0-current-2026-09-16/post.txt",
+  "image_file": "outputs/posts/nodejs-26.9.0-current-2026-09-16/cover.png"
+}

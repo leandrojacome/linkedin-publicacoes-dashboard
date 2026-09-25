@@ -1,0 +1,12 @@
+Use case: ads-marketing
+Asset type: horizontal LinkedIn technology news cover, 16:9
+Primary request: an original editorial cover about pgAdmin 4 v9.18 security fixes
+Scene/backdrop: deep indigo database operations environment with layered PostgreSQL-style data cylinders, a guarded admin gateway, and four subtle security checkpoints; clean abstract infrastructure, no interface screenshot
+Subject: a secure database administration hub protected by a luminous shield, with a compact side panel motif suggesting a collapsible Object Explorer
+Style/medium: polished 3D editorial technology illustration, crisp geometric forms, premium but restrained
+Composition/framing: wide landscape, large title centered-left, security/database illustration on the right, generous mobile-safe margins
+Lighting/mood: focused, trustworthy, release-day clarity
+Color palette: PostgreSQL blue, deep indigo, white, small cyan accents; visually distinct from earlier orange Cloudflare and green Node covers
+Text (verbatim): "pgAdmin 4 v9.18 Security Update"
+Constraints: exact text only; high legibility; no extra copy; no statistics; no CVE numbers; no official logo; no endorsement; no watermark
+Avoid: red alarm styling, hacking clichés, padlock-only composition, simulated UI, tiny text, gradients that reduce title contrast

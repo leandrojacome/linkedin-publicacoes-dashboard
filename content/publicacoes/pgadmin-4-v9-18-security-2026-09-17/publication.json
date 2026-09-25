@@ -1,0 +1,20 @@
+{
+  "id": "pgadmin-4-v9-18-security-2026-09-17",
+  "status": "published_confirmed",
+  "target_slot": "2026-09-17T20:00:00-03:00",
+  "source_url": "https://www.postgresql.org/about/news/pgadmin-4-v918-released-3381/",
+  "checked_at": "2026-09-17T16:32:20.0783973-03:00",
+  "reserved_at": "2026-09-17T16:32:20.0783973-03:00",
+  "prepared_at": "2026-09-17T16:34:33.9070685-03:00",
+  "scheduled_at": "2026-09-17T16:39:17.2428528-03:00",
+  "scheduled_for": "2026-09-17T20:00:00-03:00",
+  "submitted_at": null,
+  "confirmed_at": "2026-09-17T20:03:42.0701841-03:00",
+  "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7506487155897102337/",
+  "schedule_confirmation_source": "LinkedIn toast Publicacao agendada; scheduled-posts panel showed the pgAdmin cover, matching opening text and 20:00 time.",
+  "accessibility_note": "LinkedIn failed while saving image alt text; the post was scheduled without alt-text metadata after one safe composer recovery.",
+  "publication_date": "2026-09-17",
+  "published_at": null,
+  "publication_mode": "native_scheduled_20_target",
+  "confirmation_source": "LinkedIn profile recent activity showed the pgAdmin post first at 2 min; canonical permalink opened and exact English text, source link, three hashtags, author and original blue security cover were visually verified."
+}

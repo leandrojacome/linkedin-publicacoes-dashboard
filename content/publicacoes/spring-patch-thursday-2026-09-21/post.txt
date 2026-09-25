@@ -1,0 +1,9 @@
+Spring is turning release coordination into a security feature.
+
+The Spring portfolio is moving from a two-week release train to a single monthly “Patch Thursday,” scheduled for the Thursday after the third Monday. The goal is to deliver portfolio-wide updates and CVE fixes in one coordinated drop.
+
+The first regular patch train under the new cadence is planned for October 22.
+
+Source: https://spring.io/blog/2026/09/21/releasing-spring-for-modern-challenges/
+
+#Java #Spring #ApplicationSecurity

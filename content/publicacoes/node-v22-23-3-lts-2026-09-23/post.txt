@@ -1,0 +1,9 @@
+Node.js 22.23.3 is out for the 22.x LTS line.
+
+This maintenance release updates root certificates, OpenSSL, npm, ICU, Corepack and Undici. It also adds Node-API support for SharedArrayBuffer in typed arrays and an API for external shared buffers.
+
+For teams still running 22.x, it is a useful checkpoint for runtime and native add-on compatibility.
+
+Source: https://nodejs.org/en/blog/release/v22.23.3
+
+#NodeJS #JavaScript #BackendDevelopment

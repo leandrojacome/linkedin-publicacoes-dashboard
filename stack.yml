@@ -1,0 +1,21 @@
+services:
+  publicacoes:
+    image: ${PUBLICACOES_IMAGE:-ghcr.io/leandrojacome/linkedin-publicacoes-dashboard:latest}
+    networks:
+      - edge_services
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+      update_config:
+        order: start-first
+      labels:
+        - traefik.enable=true
+        - traefik.http.routers.publicacoes-leandro.rule=Host(`publicacoes.leandro.inf.br`)
+        - traefik.http.routers.publicacoes-leandro.entrypoints=websecure
+        - traefik.http.routers.publicacoes-leandro.tls.certresolver=letsencrypt
+        - traefik.http.services.publicacoes-leandro.loadbalancer.server.port=5682
+
+networks:
+  edge_services:
+    external: true

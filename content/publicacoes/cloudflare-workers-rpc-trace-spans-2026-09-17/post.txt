@@ -1,0 +1,8 @@
+Cloudflare Workers tracing now follows JavaScript RPC calls across Worker boundaries and into Durable Objects.
+
+The dashboard shows caller sessions and method calls alongside callee invocations, nested calls, and callbacks. Enable tracing in Wrangler; Cloudflare records the spans automatically, with no application code changes or observability SDK required.
+
+Changelog:
+https://developers.cloudflare.com/changelog/post/2026-09-17-javascript-rpc-session-spans/
+
+#Cloudflare #Observability #Serverless

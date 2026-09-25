@@ -1,0 +1,7 @@
+node_modules/
+.next/
+data/
+*.log
+dashboard-preview.png
+.env*
+!.env.example

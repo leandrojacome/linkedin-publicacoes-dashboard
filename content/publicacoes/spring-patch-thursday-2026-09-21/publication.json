@@ -1,0 +1,34 @@
+{
+  "id": "spring-patch-thursday-2026-09-21",
+  "status": "prepared_revalidated_browser_recovery_pending",
+  "target_slot": "2026-09-21T18:00:00-03:00",
+  "source_url": "https://spring.io/blog/2026/09/21/releasing-spring-for-modern-challenges/",
+  "post_file": "outputs/posts/spring-patch-thursday-2026-09-21/post.txt",
+  "image_file": "outputs/posts/spring-patch-thursday-2026-09-21/cover.png",
+  "alt_text": "A bright Java and Spring editorial graphic shows a two-week release train converging into one highlighted Patch Thursday protected by a security shield.",
+  "prepared_at": "2026-09-21T17:27:23.151319-03:00",
+  "cover_provenance_check": {
+    "checked_at": "2026-09-21T17:27:23.151319-03:00",
+    "c2pa_present": false,
+    "png_chunks": [
+      "IHDR",
+      "IDAT",
+      "IDAT",
+      "IEND"
+    ],
+    "trailing_bytes": 0,
+    "creation_method": "original_code_rendered_editorial_infographic",
+    "visual_inspected": true
+  },
+  "cover_inspection": "1600x900 bright Java/Spring editorial infographic visually inspected; headline, release-train comparison, Patch Thursday calendar and security shield are legible.",
+  "composer_prepared_at": "2026-09-21T17:32:19.122950-03:00",
+  "image_attached": true,
+  "alt_text_attached": true,
+  "link_preview_removed": true,
+  "publication_attempted": false,
+  "action_time_confirmation_received_at": "2026-09-21T17:40:52.490936-03:00",
+  "last_browser_check_at": "2026-09-22T08:01:22.782000-03:00",
+  "last_browser_check_result": "retry_skipped_prior_url_confidence_policy_block",
+  "delay_reason": "Computer Use found the LinkedIn Chrome window but stopped before any action because it could not determine the current browser URL with enough confidence to enforce policy. No publication attempt occurred.",
+  "source_revalidated_at": "2026-09-22T07:00:51.790000-03:00"
+}

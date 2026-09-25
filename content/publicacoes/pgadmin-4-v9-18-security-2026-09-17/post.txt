@@ -1,0 +1,8 @@
+pgAdmin 4 v9.18 is out with fixes for four security vulnerabilities.
+
+One closes an authentication bypass in Webserver mode, where a client-supplied header could be trusted as an identity. The release also hardens the default Content Security Policy and improves the Object Explorer.
+
+Release details:
+https://www.postgresql.org/about/news/pgadmin-4-v918-released-3381/
+
+#PostgreSQL #pgAdmin #CyberSecurity

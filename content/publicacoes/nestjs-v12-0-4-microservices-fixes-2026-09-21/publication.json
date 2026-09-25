@@ -1,0 +1,27 @@
+{
+  "id": "nestjs-v12-0-4-microservices-fixes-2026-09-21",
+  "source_url": "https://github.com/nestjs/nest/releases/tag/v12.0.4",
+  "target_slot": "2026-09-21T10:00:00-03:00",
+  "prepared_at": "2026-09-21T08:08:25.858938-03:00",
+  "status": "prepared",
+  "post_file": "outputs/posts/nestjs-v12-0-4-microservices-fixes-2026-09-21/post.txt",
+  "image_file": "outputs/posts/nestjs-v12-0-4-microservices-fixes-2026-09-21/cover.png",
+  "alt_text": "A bright NestJS release infographic highlights Kafka retry, RMQ and NATS request cleanup, gRPC namespace handling, and a core injection hang fix.",
+  "cover_provenance_check": {
+    "checked_at": "2026-09-21T08:08:25.858938-03:00",
+    "c2pa_present": false,
+    "png_chunks": [
+      "IHDR",
+      "IDAT",
+      "IDAT",
+      "IEND"
+    ],
+    "trailing_bytes": 0,
+    "creation_method": "original_code_rendered_editorial_infographic",
+    "visual_inspected": true
+  },
+  "composer_prepared_at": "2026-09-21T08:11:30.489685-03:00",
+  "composer_state": "ready_for_final_schedule_confirmation",
+  "scheduled_for_candidate": "2026-09-21T10:00:00-03:00",
+  "next_action": "Await action-time confirmation before clicking Agendar."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "claude-code-v2-1-274-2026-09-17",
+  "status": "published_confirmed",
+  "target_slot": "2026-09-18T07:00:00-03:00",
+  "scheduled_for": null,
+  "submitted_at": "2026-09-18T12:24:03.2921594-03:00",
+  "confirmed_at": "2026-09-18T12:24:03.2921594-03:00",
+  "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7506734663135162368/",
+  "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.274",
+  "alt_text": "Claude Code reliability graphic with connected MCP nodes, a memory alert, and a steady telemetry pulse.",
+  "prepared_at": "2026-09-17T21:35:48.9496584-03:00",
+  "revalidated_at": "2026-09-18T08:54:50.172118-03:00",
+  "publication_attempted": true,
+  "published_at": "2026-09-18T12:24:03.2921594-03:00",
+  "publication_date": "2026-09-18",
+  "publication_mode": "authorized_delayed_07_target_after_action_time_confirmation",
+  "confirmation_source": "LinkedIn toast 'Publicação concluída'; canonical permalink opened and exact English text, shortened source link, three hashtags, author and original Claude Code cover with saved alt text were visually verified under Leandro Rodrigues Jácome."
+}

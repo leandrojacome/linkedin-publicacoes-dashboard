@@ -1,0 +1,23 @@
+{
+  "id": "java-aot-inside-java-2026-09-17",
+  "dedup_key": "java-aot-inside-java-2026-09-17",
+  "product": "Java",
+  "version": null,
+  "event": "Inside Java podcast on AOT cache training",
+  "source_url": "https://inside.java/2026/09/17/podcast-070/",
+  "source_date": "2026-09-17",
+  "event_date": "2026-09-17",
+  "date_precision": "date_only",
+  "status": "published_confirmed",
+  "publication_mode": "explicitly_authorized_additional_java",
+  "owner": "01a0ad4e-967b-7510-b0e9-41a2891d4091",
+  "checked_at": "2026-09-17T13:15:47.1795636-03:00",
+  "post_file": "outputs/posts/java-aot-inside-java-2026-09-17/post.txt",
+  "image_file": "outputs/posts/java-aot-inside-java-2026-09-17/cover.png",
+  "alt_text": "Java Startup Starts with Training. An amber training path feeds an AOT cache and branches into teal deployment paths.",
+  "submitted_at": "2026-09-17T13:18:01.965322-03:00",
+  "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7506385964609654784/",
+  "confirmed_at": "2026-09-17T13:18:24.1591840-03:00",
+  "published_at": "2026-09-17T13:18:01.965322-03:00",
+  "confirmation_source": "LinkedIn Publicacao concluida toast; permalink opened and visually verified exact English text, source link, hashtags and original AOT cover under Leandro Rodrigues Jacome."
+}

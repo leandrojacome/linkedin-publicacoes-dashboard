@@ -1,0 +1,18 @@
+{
+  "id": "npm-stage-only-tokens-2026-09-18",
+  "status": "published_confirmed",
+  "prepared_at": "2026-09-19T01:35:42.8186769-03:00",
+  "image_file": "outputs/posts/npm-stage-only-tokens-2026-09-18/cover.png",
+  "post_file": "outputs/posts/npm-stage-only-tokens-2026-09-18/post.txt",
+  "alt_text": "A three-step npm release flow: CI stages a package, a maintainer reviews with two-factor authentication, and the registry publishes it.",
+  "c2pa_present": false,
+  "source_published_at": "2026-09-18T16:37:50Z",
+  "target_slot": "2026-09-19T01:34:07.1381356-03:00",
+  "composer_ready_at": "2026-09-19T01:37:21.0653122-03:00",
+  "submitted_at": null,
+  "confirmation_pending": false,
+  "submitted_at_note": "Single Publicar click occurred after composer_ready_at and before confirmation; exact timestamp unavailable.",
+  "confirmed_at": "2026-09-19T01:39:04.195964-03:00",
+  "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7506934577039527936/",
+  "confirmation_source": "LinkedIn Publicação concluída toast; canonical permalink opened and verified exact English text, three hashtags, author and inspected bright npm release-gate cover. No content-credentials badge visible on the post."
+}

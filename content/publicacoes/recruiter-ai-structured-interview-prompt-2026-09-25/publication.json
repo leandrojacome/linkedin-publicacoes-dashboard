@@ -1,0 +1,18 @@
+{
+  "item_id": "recruiter-ai-structured-interview-prompt-2026-09-25",
+  "status": "prepared",
+  "publication_attempted": false,
+  "source_url": "https://github.com/leandrojacome/recruiter-ai-prompts/blob/main/prompts/structured-technical-interview.md",
+  "image_file": "outputs/posts/recruiter-ai-structured-interview-prompt-2026-09-25/cover.png",
+  "post_file": "outputs/posts/recruiter-ai-structured-interview-prompt-2026-09-25/post.txt",
+  "target_slot": "2026-09-25T12:00:00-03:00",
+  "permalink": null,
+  "scheduled_at": null,
+  "local_dispatch": {
+    "platform_scheduled": false,
+    "state": "pending",
+    "id": 1,
+    "run_at": "2026-09-25T12:00:00-03:00",
+    "linkedin_connected": false
+  }
+}

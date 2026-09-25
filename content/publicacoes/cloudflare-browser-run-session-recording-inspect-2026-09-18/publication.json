@@ -1,0 +1,22 @@
+{
+  "id": "cloudflare-browser-run-session-recording-inspect-2026-09-18",
+  "status": "published_confirmed",
+  "target_slot": "2026-09-19T10:00:00-03:00",
+  "source_url": "https://developers.cloudflare.com/changelog/post/2026-09-18-browser-run-session-recording-inspect/",
+  "image_file": "outputs/posts/cloudflare-browser-run-session-recording-inspect-2026-09-18/cover.png",
+  "post_file": "outputs/posts/cloudflare-browser-run-session-recording-inspect-2026-09-18/post.txt",
+  "alt_text": "A light Cloudflare Browser Run session recording diagram with three inspection panels for logs, network requests, and the final DOM.",
+  "preparation_started_at": "2026-09-19T07:32:17.792709-03:00",
+  "prepared_at": "2026-09-19T07:33:24.027962-03:00",
+  "cover_inspection": "1600x900 original code-rendered bright infographic visually inspected: title, LOGS/NETWORK/DOM panels and recording caveat legible. PNG chunks IHDR/IDAT/IDAT/IEND only; no caBX/C2PA/JUMBF or trailing bytes.",
+  "scheduled_for": "2026-09-19T10:00:00-03:00",
+  "submitted_at": null,
+  "confirmed_at": "2026-09-19T10:03:10.0194361-03:00",
+  "permalink": "https://www.linkedin.com/posts/leandro-jacome_cloudflare-browserautomation-devtools-share-7507024464082268160-dv4p/",
+  "publication_attempted": false,
+  "scheduled_at": "2026-09-19T07:36:15.5836547-03:00",
+  "schedule_confirmation_source": "LinkedIn toast Publicação agendada; scheduled-posts count displayed (1), after composer showed Leandro, exact post text, image and Publicação em sáb, 19 de set, 10:00.",
+  "published_at": null,
+  "publication_date": "2026-09-19",
+  "confirmation_source": "LinkedIn profile recent activity showed Cloudflare Browser Run as first post at 1 min under Leandro; opened canonical post page and verified exact English text, source link, three hashtags, author and attached cover in activity. No content-credentials badge visible on the item."
+}

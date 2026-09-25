@@ -1,0 +1,18 @@
+{
+  "id": "mlcommons-mlperf-inference-v6.1-2026-09-16",
+  "dedup_key": "mlcommons-mlperf-inference-v6.1-2026-09-16",
+  "product": "MLPerf Inference",
+  "version": "6.1",
+  "event": "benchmark release",
+  "source_url": "https://mlcommons.org/2026/09/mlperf-inference-v6-1-results/",
+  "source_date": "2026-09-16",
+  "date_precision": "date_only",
+  "status": "published_confirmed",
+  "publication_date": "2026-09-17",
+  "published_at": null,
+  "publication_mode": "authorized_additional_test",
+  "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7506208167064756224/",
+  "confirmation_source": "source_task 01a0aace-ccd6-7173-9be4-3caf801ed5fd: publication confirmed on profile; single final send",
+  "post_file": "outputs/posts/mlcommons-mlperf-inference-v6.1-2026-09-16/post.txt",
+  "image_file": "outputs/posts/mlcommons-mlperf-inference-v6.1-2026-09-16/cover.png"
+}

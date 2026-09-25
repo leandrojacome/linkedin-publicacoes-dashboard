@@ -1,0 +1,13 @@
+The strongest AI-development workflow is a stack of five layers:
+
+1. SPECIFY — GitHub Spec Kit or OpenSpec turns intent into clear specs, plans, and tasks.
+2. BUILD — Codex or Antigravity handles implementation, refactoring, and iteration.
+3. CONNECT — MCP servers give agents controlled access to tools, data, and APIs.
+4. VERIFY — Playwright MCP validates real user flows in the browser.
+5. SHIP — Cloudflare and Vercel take the workflow from code to production and can host MCP services.
+
+The advantage comes from the loop: specify → build → connect → verify → ship.
+
+Which layer is still missing from your workflow?
+
+#AIDevelopment #SpecDrivenDevelopment #SDD

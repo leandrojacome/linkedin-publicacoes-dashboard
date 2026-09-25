@@ -1,0 +1,29 @@
+{
+  "id": "ibm-ai-human-judgment-gap-2026-09-21",
+  "status": "published_confirmed",
+  "target_slot": "2026-09-21T10:00:00-03:00",
+  "mode": "explicit_user_requested_same_day_delayed_10_target",
+  "source_url": "https://newsroom.ibm.com/2026-09-21-new-ibm-chro-study-ai-puts-critical-thinking-at-the-center-of-workforce-priorities",
+  "prepared_at": "2026-09-21T10:58:34.490031-03:00",
+  "alt_text": "A bright infographic titled AI Needs Human Judgment contrasts 71% of CHROs who say supervising, validating and overriding AI is essential with 29% of employees who rank judgment as important.",
+  "cover_provenance_check": {
+    "checked_at": "2026-09-21T10:58:34.490031-03:00",
+    "c2pa_present": false,
+    "png_chunks": [
+      "IHDR",
+      "IDAT",
+      "IDAT",
+      "IEND"
+    ],
+    "trailing_bytes": 0,
+    "creation_method": "original_code_rendered_editorial_infographic",
+    "visual_inspected": true
+  },
+  "composer_prepared_at": "2026-09-21T11:03:16.614555-03:00",
+  "submitted_at": "2026-09-21T16:53:08.135081-03:00",
+  "confirmed_at": "2026-09-21T16:53:08.135081-03:00",
+  "published_at": "2026-09-21T16:53:08.135081-03:00",
+  "operational_slot_used": "2026-09-21T16:00:00-03:00",
+  "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7507889286281732096/",
+  "confirmation_source": "LinkedIn success UI and canonical activity permalink."
+}

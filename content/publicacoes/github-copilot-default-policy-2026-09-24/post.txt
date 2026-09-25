@@ -1,0 +1,5 @@
+GitHub Copilot admins now have a new global default policy for eligible GA features: enable them, require approval, or let organization admins decide. Configuration is open now; the policy takes effect October 22. Explicit choices stay in place, and previews remain opt-in.
+
+https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise/
+
+#GitHubCopilot #AI #DevOps

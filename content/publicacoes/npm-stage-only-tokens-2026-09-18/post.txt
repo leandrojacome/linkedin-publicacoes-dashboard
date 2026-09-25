@@ -1,0 +1,7 @@
+An npm automation token no longer needs permission to publish a package directly.
+
+New stage-only tokens let CI stage a release for review. A maintainer approves it with 2FA, and direct `npm publish` is rejected for that token. This is opt-in; the token still has other write permissions, so it still needs protection.
+
+https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation/
+
+#SupplyChainSecurity #npm #DevSecOps

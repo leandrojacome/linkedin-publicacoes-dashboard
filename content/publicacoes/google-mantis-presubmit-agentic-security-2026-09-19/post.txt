@@ -1,0 +1,7 @@
+What if security review started with every code change?
+
+Google describes an internal workflow where AI agents scan pre-submit changes, structural checks test whether a reported path is reachable, and fix agents propose patches for human review. Nightly post-submit scanning adds a second layer.
+
+https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/
+
+#AppSec #AIEngineering #DevSecOps

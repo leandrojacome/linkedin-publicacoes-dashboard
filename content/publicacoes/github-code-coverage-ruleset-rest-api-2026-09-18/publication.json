@@ -1,0 +1,30 @@
+{
+  "id": "github-code-coverage-ruleset-rest-api-2026-09-18",
+  "source_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api/",
+  "target_slot": "2026-09-19T14:00:00-03:00",
+  "prepared_at": "2026-09-19T12:33:43.659929-03:00",
+  "status": "published_confirmed",
+  "post_file": "outputs/posts/github-code-coverage-ruleset-rest-api-2026-09-18/post.txt",
+  "image_file": "outputs/posts/github-code-coverage-ruleset-rest-api-2026-09-18/cover.png",
+  "cover_provenance_check": {
+    "checked_at": "2026-09-19T12:33:43.659929-03:00",
+    "c2pa_present": false,
+    "png_chunks": [
+      "IHDR",
+      "IDAT",
+      "IEND"
+    ],
+    "trailing_bytes": 0,
+    "creation_method": "original_code_rendered_editorial_diagram",
+    "visual_inspected": true
+  },
+  "scheduled_at": "2026-09-19T12:36:23.1482917-03:00",
+  "scheduled_for": "2026-09-19T14:00:00-03:00",
+  "schedule_confirmation": "LinkedIn toast Publicação agendada; native scheduled list showed one item for Saturday Sep 19 at 14:00; detailed preview verified exact text, shortened source link, three hashtags and attached cover with alt text.",
+  "confirmed_at": "2026-09-19T14:03:23.5420398-03:00",
+  "permalink": "https://www.linkedin.com/posts/leandro-jacome_github-codequality-devops-share-7507100068756217856-Zaz-/",
+  "published_at": null,
+  "publication_date": "2026-09-19",
+  "confirmation_source": "LinkedIn profile recent activity showed the item as first post about two minutes after native 14:00 schedule under Leandro, with exact English text, source link, three hashtags and attached inspected cover/alt text; opened canonical post page and verified author and text.",
+  "publication_mode": "native_scheduled_14_target"
+}

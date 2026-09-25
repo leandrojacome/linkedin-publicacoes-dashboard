@@ -1,0 +1,12 @@
+{
+  "status": "prepared_target_reached_browser_policy_blocked",
+  "publication_attempted": false,
+  "scheduled": false,
+  "scheduled_for": null,
+  "submitted_at": null,
+  "confirmed_at": null,
+  "permalink": null,
+  "target_slot": "2026-09-24T20:00:00-03:00",
+  "alt_text": "A dark AI security editorial graphic shows an agent flowing into an OCI Sandbox Kit and a set of requested permissions for network, secrets, and volumes.",
+  "delay_reason": "20:00 target reached; official Docker source remains current, but prior Computer Use URL-confidence safety stop remains unresolved. No LinkedIn profile or scheduled-post check could be performed and no scheduling/submission was attempted."
+}

@@ -1,0 +1,5 @@
+GitHub Actions workflow execution protections are now generally available. Teams can target rules to specific workflow files, audit impact with Insights, and manage policies through the REST API. GitHub is also rolling out a default evaluate-mode rule for pull_request_target in affected public repositories.
+
+https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available/
+
+#GitHubActions #DevSecOps #SupplyChainSecurity

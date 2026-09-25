@@ -1,0 +1,8 @@
+AI benchmarks are moving beyond single prompts.
+
+Released on September 16, MLPerf Inference v6.1 adds end-to-end RAG and edge agentic inference tests—a useful development for engineers building real AI workflows.
+
+Read the full announcement from MLCommons:
+https://mlcommons.org/2026/09/mlperf-inference-v6-1-results/
+
+#ArtificialIntelligence #RAG #AIEngineering #MLPerf

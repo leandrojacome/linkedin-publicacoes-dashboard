@@ -1,0 +1,19 @@
+{
+  "id": "go-size-specialized-allocation-2026-09-16",
+  "status": "published_confirmed",
+  "target_slot": "2026-09-17T14:00:00-03:00",
+  "source_url": "https://go.dev/blog/size-specialized-allocations",
+  "source_date": "2026-09-16",
+  "prepared_at": "2026-09-17T14:39:12-03:00",
+  "submitted_at": "2026-09-17T14:41:02.6741248-03:00",
+  "confirmed_at": "2026-09-17T14:42:02.5680729-03:00",
+  "published_at": "2026-09-17T14:41:02.6741248-03:00",
+  "publication_mode": "authorized_delayed_14_target",
+  "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7506406846727942144/",
+  "confirmation_source": "LinkedIn toast Publicacao concluida; canonical permalink opened and exact English text, source link, hashtags and original Go cover verified under Leandro Rodrigues Jacome.",
+  "topic": "Go",
+  "visual_family": "go_gopher_editorial",
+  "palette": "go_cyan_white_charcoal",
+  "post_file": "outputs/posts/go-size-specialized-allocation-2026-09-16/post.txt",
+  "image_file": "outputs/posts/go-size-specialized-allocation-2026-09-16/cover.png"
+}
