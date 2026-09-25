@@ -1,15 +1,15 @@
-FROM node:22.14-alpine AS deps
+FROM node:26.10.0-alpine3.24 AS deps
 WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm ci
 
-FROM node:22.14-alpine AS build
+FROM node:26.10.0-alpine3.24 AS build
 WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 RUN npm run build
 
-FROM node:22.14-alpine AS runtime
+FROM node:26.10.0-alpine3.24 AS runtime
 ENV NODE_ENV=production PORT=5682 HOSTNAME=0.0.0.0 PUBLIC_MODE=true CONTENT_ROOT=/app/content
 WORKDIR /app
 COPY --from=build /app ./
