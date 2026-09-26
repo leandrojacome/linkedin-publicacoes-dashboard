@@ -30,7 +30,19 @@ function loginPage(res,error=''){
   res.writeHead(error?401:200,{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-store','Content-Security-Policy':"default-src 'none'; style-src 'unsafe-inline'; form-action 'self'; base-uri 'none'; frame-ancestors 'none'",'X-Content-Type-Options':'nosniff','Referrer-Policy':'no-referrer'});
   res.end(`<!doctype html><html lang="pt-BR"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Entrar · Publicações LinkedIn</title><style>*{box-sizing:border-box}body{margin:0;min-height:100vh;display:grid;place-items:center;background:linear-gradient(135deg,#07121e,#102b46);color:#eef6fb;font:16px/1.5 Segoe UI,Arial}.card{width:min(420px,calc(100% - 32px));padding:32px;border:1px solid #294660;border-radius:18px;background:#10243a;box-shadow:0 24px 70px #0007}h1{margin:0 0 8px;font-size:30px}p{color:#adc2cf}label{display:block;margin:20px 0 7px}input{width:100%;padding:12px;border:1px solid #42627b;border-radius:10px;background:#091b2c;color:#fff;font:inherit}button{width:100%;margin-top:22px;padding:12px;border:0;border-radius:10px;background:#70e3c2;color:#09251f;font-weight:800;font:inherit;cursor:pointer}[role=alert]{padding:10px;border-radius:9px;background:#5d2d2d;color:#ffd0d0}</style><main class="card"><h1>Publicações LinkedIn</h1><p>Painel privado de revisão e agendamento.</p>${message}<form method="post" action="/api/auth/login"><label for="username">Usuário</label><input id="username" name="username" autocomplete="username" required><label for="password">Senha</label><input id="password" name="password" type="password" autocomplete="current-password" required><button type="submit">Entrar</button></form></main></html>`);
 }
-function sameOrigin(req){const origin=req.headers.origin;return !origin||origin===publicOrigin}
+function normalizeOrigin(value){
+  try{return new URL(String(value)).origin}catch{return null}
+}
+function sameOrigin(req){
+  const origin=req.headers.origin;
+  if(!origin)return true;
+  const expected=normalizeOrigin(publicOrigin);
+  const forwardedHost=String(req.headers['x-forwarded-host']||req.headers.host||'').split(',')[0].trim();
+  const forwardedProto=String(req.headers['x-forwarded-proto']||'https').split(',')[0].trim();
+  const requestOrigin=forwardedHost?normalizeOrigin(`${forwardedProto}://${forwardedHost}`):null;
+  const actual=normalizeOrigin(origin);
+  return Boolean(actual && (actual===expected || actual===requestOrigin));
+}
 function validateAt(value) {const t=new Date(value);return Number.isFinite(t.getTime())?t.toISOString():null;}
 function nearbyDispatch(runAt,exceptId=null) {
   const rows=db.prepare("SELECT id,run_at FROM dispatches WHERE state IN ('pending','blocked_auth','dispatching','submitted_unconfirmed','uncertain')").all();
